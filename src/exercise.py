@@ -1,6 +1,6 @@
 def main():
     #write your code below this line
-    attempt = str(input("Password? "))
+    attempt = str(input("Password?"))
 
     if(attempt == "Caput Draconis"):
       print("Welcome!")
